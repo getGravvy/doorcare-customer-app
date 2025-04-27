@@ -1,1 +1,3 @@
-console.log('Notifications Utils');
+export function sendNotification(title, message) {
+  console.log(`Notification: ${title} - ${message}`);
+}
