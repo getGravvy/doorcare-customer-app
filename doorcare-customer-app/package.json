@@ -11,11 +11,15 @@
   "dependencies": {
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.5",
-    "react-native-screens": "~3.8.0",
-    "react-native-safe-area-context": "3.3.2",
+    "firebase": "^9.6.1",
+    "expo": "~44.0.0",
     "react": "17.0.1",
     "react-native": "0.64.3",
-    "expo": "~44.0.0",
-    "firebase": "9.6.1"
-  }
+    "react-native-screens": "~3.8.0",
+    "react-native-safe-area-context": "3.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~9.0.1"
+  },
+  "private": true
 }
